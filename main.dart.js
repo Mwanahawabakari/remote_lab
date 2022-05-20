@@ -62267,7 +62267,7 @@ return A.a1($async$tr,r)},
 nd(){var s=0,r=A.a2(t.z),q,p,o,n,m,l,k,j
 var $async$nd=A.Z(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:s=3
-return A.a5(A.axC(A.aiH("http","remotelabapi.herokuapp.com","/api/get_result",null)),$async$nd)
+return A.a5(A.axC(A.aiH("https","remotelabapi.herokuapp.com","/api/get_result",null)),$async$nd)
 case 3:k=b
 j=[]
 for(p=J.aB(B.at.cs(0,A.ajU(A.aiY(k.e).c.a.h(0,"charset")).cs(0,k.x)));p.t();){o=p.gB(p)

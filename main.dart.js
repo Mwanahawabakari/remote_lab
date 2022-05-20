@@ -62260,7 +62260,7 @@ tr(a,b,c,d){return this.a5G(a,b,c,d)},
 a5G(a,b,c,d){var s=0,r=A.a2(t.z),q,p
 var $async$tr=A.Z(function(e,f){if(e===1)return A.a_(f,r)
 while(true)switch(s){case 0:s=2
-return A.a5(A.ayh(A.aiG("http","127.0.0.1:7560","/api/post_result",null),A.aC(["voltage",a,"current",b,"increment",c],t.N,t.z)),$async$tr)
+return A.a5(A.ayh(A.aiG("http","127.0.0.1:7561","/api/post_result",null),A.aC(["voltage",a,"current",b,"increment",c],t.N,t.z)),$async$tr)
 case 2:q=f
 p=B.at.cs(0,A.ajT(A.aiX(q.e).c.a.h(0,"charset")).cs(0,q.x))
 if(q.b===200){A.agR(d,"/home",t.X)
@@ -62270,7 +62270,7 @@ return A.a1($async$tr,r)},
 nd(){var s=0,r=A.a2(t.z),q,p,o,n,m,l,k,j
 var $async$nd=A.Z(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:s=3
-return A.a5(A.axB(A.aiG("http","127.0.0.1:7560","/api/get_result",null)),$async$nd)
+return A.a5(A.axB(A.aiG("http","127.0.0.1:7561","/api/get_result",null)),$async$nd)
 case 3:k=b
 j=[]
 for(p=J.aB(B.at.cs(0,A.ajT(A.aiX(k.e).c.a.h(0,"charset")).cs(0,k.x)));p.t();){o=p.gB(p)
@@ -62302,7 +62302,7 @@ var s=0,r=A.aw1($async$$0,t.hz),q,p=2,o,n=[]
 return A.awm(r)},
 $S:102}
 A.Ep.prototype={
-T(a,b){return new A.v7(A.aC(["/",new A.Xh(),"/home",new A.Xi()],t.N,t.Ab),"/","Flutter Demo",A.ahU(null,B.fE),!1,null)}}
+T(a,b){return new A.v7(A.aC(["/",new A.Xh(),"/home",new A.Xi()],t.N,t.Ab),"/","Remote Lab",A.ahU(null,B.fE),!1,null)}}
 A.Xh.prototype={
 $1(a){return B.G5},
 $S:380}

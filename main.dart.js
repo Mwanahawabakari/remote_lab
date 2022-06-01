@@ -65199,7 +65199,7 @@ $S:404}
 A.I6.prototype={
 P(a,b){var s=null,r=t.w,q=b.a3(r).f
 r=b.a3(r).f
-return A.dy(s,new A.p2(new A.yF().nw(),new A.a1R(),s,t.Am),B.dH,s,s,r.a.b*0.35,s,s,q.a.a*0.3)}}
+return A.dy(s,new A.p2(new A.yF().nw(),new A.a1R(),s,t.Am),B.dH,s,s,r.a.b*0.15,s,s,q.a.a*0.3)}}
 A.a1R.prototype={
 $2(a,b){var s=null,r=b.b
 if(r==null)return B.wq
@@ -65236,7 +65236,7 @@ A.tt(new A.X0(new A.X1("Acme",m),n))
 n=A.dy(j,A.CT(new A.eU(B.lU,A.f7('"Welcome to the Client Webpage where a user, can submit his/her requirement for execution of an experiment and view results"',j,j,j,p.a4v("Acme_"+m.j(0),A.b(["Acme"],t.s)),j,j),j),j,j),j,j,new A.h9(B.j,j,new A.cV(q,q,q,q),j,j,j,B.cF),h*0.4,j,j,g)
 l=h*0.01
 l=A.ul(A.b([A.ld(j,l,j),A.agj(B.Am,new A.a8V(k),new A.a8W()),A.ld(j,l,j),A.agj(B.An,new A.a8X(k),new A.a8Y()),A.ld(j,l,j),A.agj(B.Al,new A.a8Z(k),new A.a9_()),A.ld(j,l,j),new A.Ee(new A.a90(k),j,j,j,j,B.N,j,!1,B.Ln,j)],s),B.bC,B.b5,B.aP)
-return A.als(A.dy(j,A.ul(A.b([r,n,A.a2b(A.b([A.ajs(A.dy(j,new A.vc(l,B.l5,k.r),B.j,j,j,j,j,B.zP,g*0.3),j),A.ul(A.b([new A.eU(B.lU,A.f7("These are 3 last Results",j,j,j,j,j,j),j),B.Fk],s),B.bC,B.b5,B.aP),B.A7],s),B.rk,B.aP),new A.Ja(j),A.dy(j,A.CT(A.f7("CopyRight@2022",j,j,j,A.hN(j,j,B.j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j),B.dH,j,j,i,j,j,g)],s),B.f3,B.b5,B.aP),j,j,j,h,j,j,g))},
+return A.als(A.dy(j,A.ul(A.b([r,n,A.a2b(A.b([A.ajs(A.dy(j,new A.vc(l,B.l5,k.r),B.j,j,j,j,j,B.zP,g*0.3),j),A.ul(A.b([new A.eU(B.lU,A.f7("Table Of Results",j,j,j,j,j,j),j),B.Fk],s),B.bC,B.b5,B.aP),B.A7],s),B.rk,B.aP),new A.Ja(j),A.dy(j,A.CT(A.f7("CopyRight@2022",j,j,j,A.hN(j,j,B.j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j),B.dH,j,j,i,j,j,g)],s),B.f3,B.b5,B.aP),j,j,j,h,j,j,g))},
 gB(a){return this.e}}
 A.a8W.prototype={
 $1(a){return a.length===0?"Please Fill this field":null},
